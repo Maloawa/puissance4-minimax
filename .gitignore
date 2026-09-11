@@ -1,0 +1,14 @@
+# Byte-compiled / cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+.venv/
+venv/
+ENV/
+
+# Éditeurs et IDE
+.vscode/
+.idea/
+*.swp
